@@ -21,3 +21,6 @@ To download a save file pack, go to the pack page and press <kbd>Ctrl</kbd> + <k
 ### Info
 - [Droptable info](/Info/Droptable%20Data.md): A breakdown of how the droptable system works.
 - [Save file editing guide](/Info/Save%20File%20Editing%20Guide.md): A guide to how you can edit the save files to change flags.
+
+### Mods
+All published mods for Ittle Dew 2 can be found from [here](https://github.com/orgs/Extra-2-Dew/repositories). The READMEs for the mods have installation instructions.
