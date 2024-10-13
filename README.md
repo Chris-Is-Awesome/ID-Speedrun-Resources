@@ -12,6 +12,8 @@ This is a repository of Ittle Dew speedrun information.
 ### Save File Packs
 These are packs of save files that are useful for practicing specific segments of a run.
 
+To download a save file pack, go to the pack page and press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>. This will save it to your browser's download location.
+
 - Any% - Coming soon
 - All Dungeons - Coming soon
 - [100%](/Saves/100%25.zip)
