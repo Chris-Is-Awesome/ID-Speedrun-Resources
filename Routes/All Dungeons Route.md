@@ -38,12 +38,8 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 #### Going to Trash Cave
 - Return to Warp Garden
 - To Star
-- Nearby shard, pause warp `[Shards: 10]`
-- To East Star
-- Get artist Turnip lockpick `[Lockpicks: 2]`
-- To Star checkpoint
-- Musical notes cave, pause warp `[Shards: 11]`
-- Number blocks cave, pause warp `[Shards: 12]`
+- Nearby shard `[Shards: 10]`
+- Number blocks cave, pause warp `[Shards: 11]`
 - Enter Trash Cave
 
 #### Trash Cave
@@ -52,9 +48,11 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Biadlo I
 
 #### Going to Art Exhibit
+- Touch checkpoint
+- Musical notes cave, pause warp `[Shards: 12]`
 - To Warp Garden, to Fancy
 - Nearby barrel cave `[Shards: 13]`
-- Oglers lockpick `[Lockpicks: 3]`
+- Oglers lockpick `[Lockpicks: 2]`
 - Enter Art Exhibit
 
 #### Art Exhibit
@@ -67,7 +65,8 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Touch Fancy checkpoint
 - NW shard cave, pause warp `[Shards: 15]`
 - NE shard cave, pause warp `[Shards: 16]`
-- To Warp Garden, warp to Lonely
+- To Warp Garden, warp to Slope
+- North Slope lockpick `[Lockpicks: 3]`
 - Early D8
 
 #### Grand Library
