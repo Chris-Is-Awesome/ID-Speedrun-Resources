@@ -6,7 +6,7 @@ This is a repository of Ittle Dew speedrun information.
 
 ### Routes
 - Any% - Coming soon
-- All Dungeons - Coming soon
+- [All Dungeons](/ROutes/All%20Dungeons%20Route.md)
 - [100%](/Routes/100%25%20Route.md)
 
 ### Save File Packs
@@ -17,7 +17,7 @@ To download a save file pack, go to the pack page and press <kbd>Ctrl</kbd> + <k
 To import the save file into the game, place the save in `\%AppData%\LocalLow\Ludosity\Ittle Dew 2\steam`. If you're in-game when you do this, return to main menu for imported saves to load in.
 
 - Any% - Coming soon
-- [All Dungeons](/ROutes/All%20Dungeons%20Route.md)
+- All Dungeons - Coming soon
 - [100%](/Saves/100%25.zip)
 
 ### Info

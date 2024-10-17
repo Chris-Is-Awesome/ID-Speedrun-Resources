@@ -8,41 +8,41 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Potassium Mine
 - Turn on easy mode and IGT
-- Exploding Fishbun cave [Shards: 1]
-- Golden Fishbun cave [Shards: 2]
-- Circle tree cave [Shards: 3]
+- Exploding Fishbun cave `[Shards: 1]`
+- Golden Fishbun cave `[Shards: 2]`
+- Circle tree cave `[Shards: 3]`
 - To Pepperpain
 - Unlock portal, pause warp
-- NW Pepperpain lockpick [Lockpicks: 1]
+- NW Pepperpain lockpick `[Lockpicks: 1]`
 - To Slope
-- NE shard cave near Lonely entrance [Shards: 4]
+- NE shard cave near Lonely entrance `[Shards: 4]`
 - Enter Lonely
-- Lightning rock cave [Shards: 5]
-- Lonely lockpick [Lockpicks: 2]
+- Lightning rock cave `[Shards: 5]`
+- Lonely lockpick `[Lockpicks: 2]`
 - Unlock Forbidden Area warp, pause warp
 - Shortcut cave to West Lonely
-- NW shard cave [Shards: 6]
+- NW shard cave `[Shards: 6]`
 - To Warp Garden
 - Warp to Pepperpain, proceed to Potassium Mine
-  - Get peaceful Brutus and Northern shards on the way [Shards: 8]
+  - Get peaceful Brutus and Northern shards on the way `[Shards: 8]`
 
 #### Potassium Mine
 - To main room
-- Get main room key [Keys: 1]
-- Proceed to Ice Ring, doing Jello phase [Keys: 0]
+- Get main room key `[Keys: 1]`
+- Proceed to Ice Ring, doing Jello phase `[Keys: 0]`
 - Get numbered buttons key after getting Ice
-- Head to boss, using 1 lockpick on the way [Keys: 0, Lockpicks: 1]
+- Head to boss, using 1 lockpick on the way `[Keys: 0, Lockpicks: 1]`
 - Cyber Jenny I
 
 #### Going to Trash Cave
 - Return to Warp Garden
 - To Star
-- Nearby shard, pause warp [Shards: 9]
+- Nearby shard, pause warp `[Shards: 9]`
 - To East Star
-- Get artist Turnip lockpick [Lockpicks: 2]
+- Get artist Turnip lockpick `[Lockpicks: 2]`
 - To Star checkpoint
-- Musical notes cave, pause warp [Shards: 10]
-- Number blocks cave, pause warp [Shards: 11]
+- Musical notes cave, pause warp `[Shards: 10]`
+- Number blocks cave, pause warp `[Shards: 11]`
 - Enter Trash Cave
 
 #### Trash Cave
@@ -52,8 +52,8 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Art Exhibit
 - To Warp Garden, to Fancy
-- Nearby barrel cave [Shards: 12]
-- Oglers lockpick [Lockpicks: 3]
+- Nearby barrel cave `[Shards: 12]`
+- Oglers lockpick `[Lockpicks: 3]`
 - Enter Art Exhibit
 
 #### Art Exhibit
@@ -62,10 +62,10 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Lenny I
 
 #### Going to Grand Library
-- Bush shard cave [Shards: 13]
+- Bush shard cave `[Shards: 13]`
 - Touch Fancy checkpoint
-- NW shard cave, pause warp [Shards: 14]
-- NE shard cave, pause warp [Shards: 15]
+- NW shard cave, pause warp `[Shards: 14]`
+- NE shard cave, pause warp `[Shards: 15]`
 - To Warp Garden, warp to Lonely
 - Early D8
 
@@ -77,15 +77,15 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
   - Skip getting Forbidden Key after Passel, it's not required
 
 #### Tomb of Simulacrum
-- Mercury Jello key [Keys: 1]
-- 4 crystals key [Keys: 2]
-- Proceed through next 5 locked doors to yellow warp [Keys: 0, Lockpicks: 0]
+- Mercury Jello key `[Keys: 1]`
+- 4 crystals key `[Keys: 2]`
+- Proceed through next 5 locked doors to yellow warp `[Keys: 0, Lockpicks: 0]`
 - Get and use the next 5 keys after yellow warp to EFCS
 - Simulacrum
 
 #### Going to Machine Fortress
 - To Warp Garden, warp to Fancy
-- Lockpick near Machine Fortress [Lockpicks: 1]
+- Lockpick near Machine Fortress `[Lockpicks: 1]`
 - Enter Machine Fortress
 
 #### Machine Fortress
@@ -94,7 +94,6 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Flooded Basement
 - To Warp Garden, warp to Slope
-- North Slope lockpick [Lockpicks: 2]
 - Enter Flooded Basement
 
 #### Flooded Basement
@@ -103,7 +102,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Cyber Jenny II
 
 #### Going to Sunken Labyrinth
-- Shard cave near Flooded Basement [Shards: 16]
+- Shard cave near Flooded Basement `[Shards: 16]`
 - Shortcut cave to Warp Garden
 - Enter Sunken Labyrinth
 
@@ -121,11 +120,11 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Sand Castle
 - Take shortcut cave to South Fluffy
-- Enter Star, do nearby shard cave, pause warp & return to Fluffy [Shards: 17]
-- Two nearby South Fluffy shards, pause warp after second one [Shards: 19]
+- Enter Star, do nearby shard cave, pause warp & return to Fluffy `[Shards: 17]`
+- Two nearby South Fluffy shards, pause warp after second one `[Shards: 19]`
 - Enter Coast
-- Bush button shard cave [Shards: 20]
-- Lockpick [Lockpicks: 3]
+- Bush button shard cave `[Shards: 20]`
+- Lockpick `[Lockpicks: 2]`
 - Enter Sand Castle
 
 #### Sand Castle
@@ -134,12 +133,12 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Lenny II
 
 #### Going to Boiling Grave
-- West Coast cave, pause warp [Shards: 21]
-- South Coast cave, pause warp [Shards: 22]
-- Pillar roll cave, pause warp [Shards: 23]
+- West Coast cave, pause warp `[Shards: 21]`
+- South Coast cave, pause warp `[Shards: 22]`
+- Pillar roll cave, pause warp `[Shards: 23]`
 - To Warp Garden, warp to Star
 - Star to Frozen
-  - Get shard cave along the way at South Star [Shards: 24]
+  - Get shard cave along the way at South Star `[Shards: 24]`
 - Enter Boiling Grave
 
 #### Boiling Grave
@@ -156,14 +155,14 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 #### Bottomless Tower
 - NE key, pause warp
 - To stairs
-- To stairs
-- SE locked door
+- Through locked door to stairs
+- SE locked door `[Lockpicks: 1]`
 - Stairs for green fire
 - Skullies
 
 #### Antigram
 - SE key, pause warp
-- EFCS 2nd locked door
+- Use lockpick on 2nd locked door `[Lockpicks: 0]`
 - Melty Bod
 
 #### Quietus
