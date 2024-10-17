@@ -13,18 +13,19 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Circle tree cave `[Shards: 3]`
 - To Pepperpain
 - Unlock portal, pause warp
+- Brutus shard `[Shards: 4]`
 - NW Pepperpain lockpick `[Lockpicks: 1]`
 - To Slope
-- NE shard cave near Lonely entrance `[Shards: 4]`
+- NE shard cave near Lonely entrance `[Shards: 5]`
 - Enter Lonely
-- Lightning rock cave `[Shards: 5]`
+- Lightning rock cave `[Shards: 6]`
 - Lonely lockpick `[Lockpicks: 2]`
 - Unlock Forbidden Area warp, pause warp
 - Shortcut cave to West Lonely
-- NW shard cave `[Shards: 6]`
+- NW shard cave `[Shards: 7]`
 - To Warp Garden
 - Warp to Pepperpain, proceed to Potassium Mine
-  - Get peaceful Brutus and Northern shards on the way `[Shards: 8]`
+  - Get peaceful Brutus and Northern shards on the way `[Shards: 9]`
 
 #### Potassium Mine
 - To main room
@@ -37,12 +38,12 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 #### Going to Trash Cave
 - Return to Warp Garden
 - To Star
-- Nearby shard, pause warp `[Shards: 9]`
+- Nearby shard, pause warp `[Shards: 10]`
 - To East Star
 - Get artist Turnip lockpick `[Lockpicks: 2]`
 - To Star checkpoint
-- Musical notes cave, pause warp `[Shards: 10]`
-- Number blocks cave, pause warp `[Shards: 11]`
+- Musical notes cave, pause warp `[Shards: 11]`
+- Number blocks cave, pause warp `[Shards: 12]`
 - Enter Trash Cave
 
 #### Trash Cave
@@ -52,7 +53,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Art Exhibit
 - To Warp Garden, to Fancy
-- Nearby barrel cave `[Shards: 12]`
+- Nearby barrel cave `[Shards: 13]`
 - Oglers lockpick `[Lockpicks: 3]`
 - Enter Art Exhibit
 
@@ -64,8 +65,8 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 #### Going to Grand Library
 - Bush shard cave `[Shards: 13]`
 - Touch Fancy checkpoint
-- NW shard cave, pause warp `[Shards: 14]`
-- NE shard cave, pause warp `[Shards: 15]`
+- NW shard cave, pause warp `[Shards: 15]`
+- NE shard cave, pause warp `[Shards: 16]`
 - To Warp Garden, warp to Lonely
 - Early D8
 
@@ -102,7 +103,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Cyber Jenny II
 
 #### Going to Sunken Labyrinth
-- Shard cave near Flooded Basement `[Shards: 16]`
+- Shard cave near Flooded Basement `[Shards: 17]`
 - Shortcut cave to Warp Garden
 - Enter Sunken Labyrinth
 
@@ -120,10 +121,10 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Sand Castle
 - Take shortcut cave to South Fluffy
-- Enter Star, do nearby shard cave, pause warp & return to Fluffy `[Shards: 17]`
-- Two nearby South Fluffy shards, pause warp after second one `[Shards: 19]`
+- Enter Star, do nearby shard cave, pause warp & return to Fluffy `[Shards: 18]`
+- Two nearby South Fluffy shards, pause warp after second one `[Shards: 20]`
 - Enter Coast
-- Bush button shard cave `[Shards: 20]`
+- Bush button shard cave `[Shards: 21]`
 - Lockpick `[Lockpicks: 2]`
 - Enter Sand Castle
 
@@ -133,7 +134,6 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Lenny II
 
 #### Going to Boiling Grave
-- West Coast cave, pause warp `[Shards: 21]`
 - South Coast cave, pause warp `[Shards: 22]`
 - Pillar roll cave, pause warp `[Shards: 23]`
 - To Warp Garden, warp to Star
