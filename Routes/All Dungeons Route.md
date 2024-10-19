@@ -66,15 +66,14 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - NW shard cave, pause warp `[Shards: 15]`
 - NE shard cave, pause warp `[Shards: 16]`
 - To Warp Garden, warp to Slope
-- North Slope lockpick `[Lockpicks: 3]`
-- Early D8
+- North Slope lockpick, pause warp, return to Warp Garden `[Lockpicks: 3]`
+- Warp to Lonely, early D8
 
 #### Grand Library
 - Fire Mace
 - D8 skip
 - Passel
 - To Warp garden, warp to Tomb of Simulacrum
-  - Skip getting Forbidden Key after Passel, it's not required
 
 #### Tomb of Simulacrum
 - Mercury Jello key `[Keys: 1]`
@@ -90,6 +89,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Machine Fortress
 - EFCS first way through dungeon
+  - Get Dynamite II along the way
 - Mechabun I
 
 #### Going to Flooded Basement
