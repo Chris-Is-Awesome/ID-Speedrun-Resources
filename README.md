@@ -6,7 +6,7 @@ This is a repository of Ittle Dew speedrun information.
 
 ### Routes
 - Any% - Coming soon
-- [All Dungeons](/ROutes/All%20Dungeons%20Route.md)
+- [All Dungeons](/Routes/All%20Dungeons%20Route.md)
 - [100%](/Routes/100%25%20Route.md)
 
 ### Save File Packs
