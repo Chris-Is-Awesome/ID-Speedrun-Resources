@@ -13,24 +13,28 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Circle tree cave `[Shards: 3]`
 - To Pepperpain
 - Unlock portal, pause warp
-- Brutus shard `[Shards: 4]`
 - NW Pepperpain lockpick `[Lockpicks: 1]`
 - To Slope
-- NE shard cave near Lonely entrance `[Shards: 5]`
+- NE shard cave near Lonely entrance `[Shards: 4]`
 - Enter Lonely
-- Lightning rock cave `[Shards: 6]`
+- Lightning rock cave `[Shards: 5]`
 - Lonely lockpick `[Lockpicks: 2]`
 - Unlock Forbidden Area warp, pause warp
 - Shortcut cave to West Lonely
-- NW shard cave `[Shards: 7]`
+- NW shard cave `[Shards: 6]`
+- Moon Garden Chain
 - To Warp Garden
-- Warp to Pepperpain, proceed to Potassium Mine
-  - Get peaceful Brutus and Northern shards on the way `[Shards: 9]`
+- Warp to Pepperpain
+- Brutus shard with Chain, pause warp `[Shards: 7]`
+- Proceed to Pepperpain Mountain
+  - Get peaceful Brutus shard on the way `[Shards: 8]`
+- Touch checkpoint, get Northern shard, pause warp `[Shards: 9]`
+- Enter Potassium Mine
 
 #### Potassium Mine
 - To main room
 - Get main room key `[Keys: 1]`
-- Proceed to Ice Ring, doing Jello phase `[Keys: 0]`
+- Proceed to Ice Ring, using chain on crystal outside Ice Ring room `[Keys: 0]`
 - Get numbered buttons key after getting Ice
 - Head to boss, using 1 lockpick on the way `[Keys: 0, Lockpicks: 1]`
 - Cyber Jenny I
@@ -39,7 +43,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Return to Warp Garden
 - To Star
 - Nearby shard `[Shards: 10]`
-- Number blocks cave, pause warp `[Shards: 11]`
+- Number blocks cave `[Shards: 11]`
 - Enter Trash Cave
 
 #### Trash Cave
@@ -61,10 +65,9 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - Lenny I
 
 #### Going to Grand Library
-- Bush shard cave `[Shards: 13]`
+- Bush shard cave `[Shards: 14]`
 - Touch Fancy checkpoint
 - NW shard cave, pause warp `[Shards: 15]`
-- NE shard cave, pause warp `[Shards: 16]`
 - To Warp Garden, warp to Slope
 - North Slope lockpick, pause warp, return to Warp Garden `[Lockpicks: 3]`
 - Warp to Lonely, early D8
@@ -84,6 +87,7 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 
 #### Going to Machine Fortress
 - To Warp Garden, warp to Fancy
+- NE shard cave, pause warp `[Shards: 16]`
 - Lockpick near Machine Fortress `[Lockpicks: 1]`
 - Enter Machine Fortress
 
@@ -121,7 +125,8 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 #### Going to Sand Castle
 - Take shortcut cave to South Fluffy
 - Enter Star, do nearby shard cave, pause warp & return to Fluffy `[Shards: 18]`
-- Two nearby South Fluffy shards, pause warp after second one `[Shards: 20]`
+- Double Spikebun shard `[Shards: 19]`
+- Shellbun & Fishbun shard, pause warp `[Shards: 20]`
 - Enter Coast
 - Bush button shard cave `[Shards: 21]`
 - Lockpick `[Lockpicks: 2]`
@@ -158,18 +163,24 @@ The dungeon must be marked as complete (with a checkmark on map) for it to be co
 - SE locked door `[Lockpicks: 1]`
 - Stairs for green fire
 - Skullies
+- Enter Antigram
 
 #### Antigram
 - SE key, pause warp
 - Use lockpick on 2nd locked door `[Lockpicks: 0]`
 - Melty Bod
+- Enter Quietus
 
 #### Quietus
 - Go straight to the final button room that has all the crystals
 - Skip entire dungeon
 - Dream Moth
+- Enter Syncope
 
-#### Ending
-- Syncope
-- Wizardry Lab
+#### Syncope
+- Go straight to the end
+- Enter Wizardry Lab
+
+#### Wizardry Lab
+- Activate the wires, go straight to end
 - Leave DW, Fluffy lake warp, GG
