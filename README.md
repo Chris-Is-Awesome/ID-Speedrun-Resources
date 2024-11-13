@@ -19,6 +19,7 @@ To import the save file into the game, place the save in `\%AppData%\LocalLow\Lu
 - Any% - Coming soon
 - [All Dungeons](/Saves/All%20Dungeons.zip)
 - [100%](/Saves/100%25.zip)
+- [ILs](/Saves/ILs.zip)
 
 ### Info
 - [Main leaderboard](https://www.speedrun.com/id2)
