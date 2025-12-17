@@ -12,7 +12,7 @@ This is a repository of Ittle Dew speedrun information.
 ### Save File Packs
 These are packs of save files that are useful for practicing specific segments of a run.
 
-To download a save file pack, go to the pack page and press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>. This will save it to your browser's download location.
+To download a save file pack, download the .zip files from the [Releases page](https://github.com/Chris-Is-Awesome/ID-Speedrun-Resources/releases).
 
 To import the save file into the game, place the save in `\%AppData%\LocalLow\Ludosity\Ittle Dew 2\steam`. If you're in-game when you do this, return to main menu for imported saves to load in.
 
